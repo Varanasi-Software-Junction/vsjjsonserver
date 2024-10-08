@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Learning JSON Server",
+      "author": "Popat"
+    },
+    {
+      "id": "2",
+      "title": "Building APIs with json-server",
+      "author": "Champak"
+    },
+    {
+      "id": "0e0e",
+      "title": "New Post on APIs",
+      "author": "Arjun"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "postId": 1,
+      "body": "Well explained, Popat!"
+    },
+    {
+      "id": "2",
+      "postId": 2,
+      "body": "Thanks for this guide, Champak."
+    }
+  ],
+  "profile": {
+    "name": "Daya"
+  }
+}
